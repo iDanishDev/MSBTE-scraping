@@ -8,5 +8,5 @@ The program currently runs only on Enrollment number's data and not by Seat Numb
 
 Running the code will simply insert data from 'e_no.txt' and scrap data to 'results.txt'
 
-===============================================================================================
+============================================================================================
 If any issues persist, please put up an issue. I'll get back asap.
